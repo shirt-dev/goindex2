@@ -5,7 +5,7 @@ self.props = {
   storage: 'drives', // 'drive' OR 'drives'
   // 'drive' will set 'default_root_id' as default
   // 'drives' will list all drives (My Drive & Teamdrives)
-  ui: 'light', // light OR dark OR dark-orange
+  ui: 'dark', // light OR dark OR dark-orange
   // https://github.com/alx-xlx/goindex/tree/production/themes
 	client_id: '**********.apps.googleusercontent.com',
 	client_secret: '********',
